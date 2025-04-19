@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Downloads/Custom-Memory-Alloactors-master/build/CMakeFiles/CustomMemoryAllocator.dir
+C:/Users/Lenovo/Downloads/Custom-Memory-Alloactors-master/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Downloads/Custom-Memory-Alloactors-master/build/CMakeFiles/rebuild_cache.dir
